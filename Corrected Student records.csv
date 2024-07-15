@@ -1,0 +1,11 @@
+,student_id,name,age,gender,department,marks_subject1,marks_subject2,marks_subject3,total_marks,normalized_marks
+0,1,John Doe,18,Male,Computer Science,85,78,92,255,0.5
+1,2,Jane Smith,19,Female,Electrical,88,79,85,252,0.65
+2,3,Mary Johnson,18,Female,Mechanical,90,88,76,254,0.75
+3,4,James Williams,20,Male,Civil,75,85,89,249,0.0
+4,5,Patricia Brown,19,Female,Computer Science,92,91,83,266,0.85
+5,6,Michael Davis,18,Male,Electrical,80,76,85,241,0.25
+6,7,Jennifer Miller,19,Female,Mechanical,85,82,90,257,0.5
+7,8,William Wilson,20,Male,Civil,78,89,94,261,0.15
+8,9,Linda Moore,18,Female,Computer Science,88,84,78,250,0.65
+9,10,Robert Taylor,19,Male,Electrical,95,87,92,274,1.0
